@@ -15,7 +15,7 @@ This project is designed for one to practice the Git/Github workflow here at Cod
   - [x] Write your name in a paragraph tag wrapped in a non semantic tag
   - [x] create css file
   - [x] set your texts to a color of your choice 
-  - [ ] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
+  - [x] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own mentee fork as the base (compare across forks, base-fork -> master).
 
